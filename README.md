@@ -1,1 +1,1 @@
-# Experementing with microfrontends
+# Experimenting with micro frontends
